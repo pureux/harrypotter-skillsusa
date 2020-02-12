@@ -1,4 +1,4 @@
-# Harry Potter Skills USA
+# Harry Potter Sorting Hat - Skills USA
 
 A programming exercise based on the plot of the Harry Potter franchise, specifically regarding the Sorting Hat and incoming students to Hogwarts.
 
@@ -13,6 +13,8 @@ You're a programmer, Terry!  20 incoming students received invitation letters to
 Seed the application with 20 incoming Hogwarts students (names provided below), in the order provided.
 
 Program a Sorting Hat algorithm to sort the students evenly into the four houses (five students per house) and display the resulting list of students alphabetically (A to Z) by the student's name, grouped by their respective house.
+
+*Note: For phase 1, it does not matter in which house a particular student is sorted.*
 
 #### Seed Data
 
@@ -98,3 +100,7 @@ Sort the students into the house that matches two or more of the student's quali
 After ensuring you have a successful and complete solution for Phase 2, enhance your code to allow the end user to add more students, with three qualities each, and sort them with the initial 20 students appropriately.
 
 Require three qualities per student. Each quality must match a quality from a house.  Do not allow multiples of the same quality for the same student.  Require a student name to be entered.  Do not allow the student name to match an existing student.
+
+Then allow the end user to re-assign an existing student to a different house.
+
+Then allow the end user to expel a sorted student from Hogwarts (remove them from all houses).
