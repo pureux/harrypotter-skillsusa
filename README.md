@@ -1,4 +1,4 @@
-# Harry Potter Sorting Hat - Skills USA
+# Harry Potter Sorting Hat - Skills USA Programming Competition
 
 A programming exercise based on the plot of the Harry Potter franchise, specifically regarding the Sorting Hat and incoming students to Hogwarts.
 
@@ -104,3 +104,42 @@ Require three qualities per student. Each quality must match a quality from a ho
 Then allow the end user to re-assign an existing student to a different house.
 
 Then allow the end user to expel a sorted student from Hogwarts (remove them from all houses).
+
+---
+
+# Harry Potter New House Petition - Skills USA Web Design Competition
+
+A web design exercise based on the Harry Potter franchise, extending the storyline by promoting the creation of new house (group) for students at Hogwarts.
+
+The requirements are below.  Test your skills to see what you can build.
+
+## Requirements
+
+You're a web developer, Kerry!  The Sorting Hat has had trouble sorting some of the incoming students again this year, and a group of second year students has petitioned for the creation of a new house (aka group) to accompany Gryffindor, Hufflepuff, Ravenclaw, and Slytherin at Hogwarts.
+
+Hagrid has found a suitable location on the grounds of Hogwarts with adequate housing, access to common areas, within walking (or broom riding) distance from the classrooms.
+
+Decide on a name for this new house and design your own logo (aka crest), matching the general theme and style of other house logos at Hogwarts (it does not have to be as detailed as those used in the movie).
+
+Decide on a unique color scheme that is visually appealing but also distinct from the other four houses.
+
+* Gryffindor is a lion with red as its primary house color
+* Hufflepuff is a badger with yellow as its primary house color
+* Ravenclaw is a raven with blue as its primary house color
+* Slytherin is a snake with green as its primary house color
+
+Design and implement a web site for your new Hogwarts house, incorporating your new logo and color scheme.
+
+Include separate pages (as well as navigation) for:
+
+| Page | Content |
+| ---- | ------- |
+| Home | News content that you come up with and a brief call to action for why the new house should be created |
+| About | General content that you come up with about the new house, as well as four unique qualities that this new house values, and a Google map or other interaction map visualization (pick a location in Europe to visualize, and try to have the map zoomed in to a specific area of a large building/complex) |
+| Sign the Petition | A form for the user to fill out that submits their name, email address, and optional comments, including validation of required fields and email address format |
+
+Your web site should be responsive for mobile phones, tablets, and desktops/laptops.  It should be cross-browser compatible and meet W3C standards. It should meet the WCAG accessibility guidelines.
+
+You *can* use the Internet, including graphic design resources and images you find on the web.  However, the house name, logo, color scheme, and qualities valued must be unique and cannot be copied from existing work.
+
+You *cannot* use frameworks, libraries, or similar tools (examples: Bootstrap, Tailwind, jQuery, React, Vue, Angular, etc.).  If you are unsure about something, ask one of the judges.
