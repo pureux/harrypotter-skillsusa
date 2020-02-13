@@ -6,18 +6,19 @@ The requirements are below.  Test your skills to see what you can build.
 
 ## Requirements
 
-You're a programmer, Terry!  20 incoming students received invitation letters to Hogwarts and are gathered in the banquet hall to be sorted into their houses.
+Incoming students received invitation letters to Hogwarts and are gathered in the banquet hall to be sorted into their houses.  Complete the following three phases to help the Sorting Hat group the students.  Get as far as you can while still having working, separate solutions for each previous phase.
 
 ### Phase 1
 
 Seed the application with 20 incoming Hogwarts students (names provided below), in the order provided.
 
-Program a Sorting Hat algorithm to sort the students evenly into the four houses (five students per house) and display the resulting list of students alphabetically (A to Z) by the student's name, grouped by their respective house.
+Program a Sorting Hat algorithm to sort the students evenly into the four houses (five students per house) and display the resulting list of students alphabetically (A to Z) by the student's first name, grouped by their respective house.
 
 *Note: For phase 1, it does not matter in which house a particular student is sorted.*
 
 #### Seed Data
 
+##### Houses
 
 | House |
 | ------ |
@@ -26,7 +27,7 @@ Program a Sorting Hat algorithm to sort the students evenly into the four houses
 | Ravenclaw |
 | Slytherin |
 
----
+##### Students
 
 | ID | Student |
 | -- | ------- |
@@ -57,9 +58,11 @@ After ensuring you have a successful and complete solution for Phase 1, enhance 
 
 Use the updated seed data below, in the order provided, to seed the 20 students with each student having three total qualities valued by houses at Hogwarts.
 
-Sort the students into the house that matches two or more of the student's qualities. Display the resulting list of students alphabetically (A to Z) by the student's name, grouped by their respective house.
+Sort the students into the house that matches two or more of the student's qualities. Display the resulting list of students alphabetically (A to Z) by the student's first name, grouped by their respective house.
 
 #### Updated Seed Data
+
+##### Houses
 
 | House | Qualities |
 | ----- | --------- |
@@ -70,7 +73,7 @@ Sort the students into the house that matches two or more of the student's quali
 
 > Reference: [Hogwarts Wikipedia](https://en.wikipedia.org/wiki/Hogwarts)
 
----
+##### Students
 
 | ID | Student | Qualities | Expected House |
 | -- | ------- | --------- | -------------- |
@@ -105,6 +108,23 @@ Then allow the end user to re-assign an existing student to a different house.
 
 Then allow the end user to expel a sorted student from Hogwarts (remove them from all houses).
 
+## Scoring Criteria
+
+```
+Does it Work                       200
+Completeness                        50
+Correctness of Output               50
+Code Clarity/Documentation          50
+Structure/Quality of Work           50
+Efficiency of Code                  40
+Phase 2                             30
+Phase 3                             30
+Interview                            0 to -30
+Clothing/Appearance                  0 to -30
+Resume                               0 to -30
+TOTAL                              500
+```
+
 ---
 
 # Harry Potter New House Petition - Skills USA Web Design Competition
@@ -115,7 +135,7 @@ The requirements are below.  Test your skills to see what you can build.
 
 ## Requirements
 
-You're a web developer, Kerry!  The Sorting Hat has had trouble sorting some of the incoming students again this year, and a group of second year students has petitioned for the creation of a new house (aka group) to accompany Gryffindor, Hufflepuff, Ravenclaw, and Slytherin at Hogwarts.
+The Sorting Hat has had trouble sorting some of the incoming students again this year, and a group of second year students has petitioned for the creation of a new house (aka group) to accompany Gryffindor, Hufflepuff, Ravenclaw, and Slytherin at Hogwarts.
 
 Hagrid has found a suitable location on the grounds of Hogwarts with adequate housing, access to common areas, within walking (or broom riding) distance from the classrooms.
 
@@ -135,7 +155,7 @@ Include separate pages (as well as navigation) for:
 | Page | Content |
 | ---- | ------- |
 | Home | News content that you come up with and a brief call to action for why the new house should be created |
-| About | General content that you come up with about the new house, as well as four unique qualities that this new house values, and a Google map or other interaction map visualization (pick a location in Europe to visualize, and try to have the map zoomed in to a specific area of a large building/complex) |
+| About | General content that you come up with about the new house, as well as four unique qualities that this new house values, and a Google map or other interaction map visualization (pick a location in Europe to visualize, and ideally have the map zoomed in to a specific area of a large building/complex) |
 | Sign the Petition | A form for the user to fill out that submits their name, email address, and optional comments, including validation of required fields and email address format |
 
 Your web site should be responsive for mobile phones, tablets, and desktops/laptops.  It should be cross-browser compatible and meet W3C standards. It should meet the WCAG accessibility guidelines.
@@ -143,3 +163,21 @@ Your web site should be responsive for mobile phones, tablets, and desktops/lapt
 You *can* use the Internet, including graphic design resources and images you find on the web.  However, the house name, logo, color scheme, and qualities valued must be unique and cannot be copied from existing work.
 
 You *cannot* use frameworks, libraries, or similar tools (examples: Bootstrap, Tailwind, jQuery, React, Vue, Angular, etc.).  If you are unsure about something, ask one of the judges.
+
+## Scoring Criteria
+
+```
+Does it Work                       125
+Completeness                        75
+Structure/Quality of Work           50
+Design, Logo, and Branding          50
+Intuitive Navigation and Flow       40
+Content Formatting and Readability  40
+Accessibility                       40
+Responsiveness to Screen Size       40
+Cross Browser Support               40
+Interview                            0 to -30
+Clothing/Appearance                  0 to -30
+Resume                               0 to -30
+TOTAL                              500
+```
