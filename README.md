@@ -137,25 +137,36 @@ The requirements are below.  Test your skills to see what you can build.
 
 The Sorting Hat has had trouble sorting some of the incoming students again this year, and a group of second year students has petitioned for the creation of a new house (aka group) to accompany Gryffindor, Hufflepuff, Ravenclaw, and Slytherin at Hogwarts.
 
-Hagrid has found a suitable location on the grounds of Hogwarts with adequate housing, access to common areas, within walking (or broom riding) distance from the classrooms.
+Hagrid has found a suitable and available dormitory on the grounds of Hogwarts with adequate housing, access to common areas, within walking (or broom riding) distance from the classrooms.
 
-Decide on a name for this new house and design your own logo (aka crest), matching the general theme and style of other house logos at Hogwarts (it does not have to be as detailed as those used in the movie).
+Come up with and incorporate the following unique attributes for the new house:
 
-Decide on a unique color scheme that is visually appealing but also distinct from the other four houses.
+* Name
+* Qualities it values (4 of them)
+* Emblem (typically an animal)
+* Colors (1 primary and 1 accent)
 
-* Gryffindor is a lion with red as its primary house color
-* Hufflepuff is a badger with yellow as its primary house color
-* Ravenclaw is a raven with blue as its primary house color
-* Slytherin is a snake with green as its primary house color
+These should be both representative and visually appealing, but also distinct from the other four houses.
 
-Design and implement a web site for your new Hogwarts house, incorporating your new logo and color scheme.
+For reference:
+
+| House | Qualities | Emblem | Color |
+| ----- | --------- | ------ | ----- |
+| Gryffindor | courage<br/>bravery<br/>nerve<br/>chivalry | lion | red and yellow |
+| Hufflepuff | hard work<br/>patience<br/>justice<br/>loyalty | badger | yellow and brown |
+| Ravenclaw | intelligence<br/>creativity<br/>learning<br/>wit | raven | blue and gray |
+| Slytherin | ambition<br/>cunning<br/>leadership<br/>resourcefulness | snake | green and gray |
+
+Design your own logo (aka crest) using the emblem you decided on, matching the general theme and style of other house logos at Hogwarts (it does not have to be as detailed as those used in the movie).
+
+Design and implement a web site for your new Hogwarts house, incorporating your new logo, color scheme, and other house attributes.
 
 Include separate pages (as well as navigation) for:
 
 | Page | Content |
 | ---- | ------- |
-| Home | News content that you come up with and a brief call to action for why the new house should be created |
-| About | General content that you come up with about the new house, as well as four unique qualities that this new house values, and a Google map or other interaction map visualization (pick a location in Europe to visualize, and ideally have the map zoomed in to a specific area of a large building/complex) |
+| Home | News content and a brief call to action for why the new house should be created |
+| About | General content about the new house, as well as a Google map or other interaction map visualization to depict the house's dormitory location at Hogwarts (pick a location in Europe to visualize, and ideally have the map zoomed in to a specific area of a large building/complex) |
 | Sign the Petition | A form for the user to fill out that submits their name, email address, and optional comments, including validation of required fields and email address format |
 
 Your web site should be responsive for mobile phones, tablets, and desktops/laptops.  It should be cross-browser compatible and meet W3C standards. It should meet the WCAG accessibility guidelines.
